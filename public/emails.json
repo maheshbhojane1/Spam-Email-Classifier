@@ -1,0 +1,22 @@
+[
+  {"text": "Congratulations! You have won a $1000 gift card. Click the link to claim now!", "label": 1},
+  {"text": "Reminder: Your electricity bill is due tomorrow. Please pay to avoid penalties.", "label": 0},
+  {"text": "Earn money fast! Work from home and make $5000 a week. Sign up here!", "label": 1},
+  {"text": "Meeting scheduled: Project review at 3 PM in Conference Room B.", "label": 0},
+  {"text": "Your account has been suspended! Verify your details immediately to restore access.", "label": 1},
+  {"text": "Lunch with Sarah tomorrow at 1 PM. Don't forget!", "label": 0},
+  {"text": "Get cheap medicines online! Limited time offer, buy now!", "label": 1},
+  {"text": "Monthly bank statement is attached. Please review.", "label": 0},
+  {"text": "URGENT: Your PayPal account is compromised. Log in to secure it now.", "label": 1},
+  {"text": "Invitation: Join us for the annual team building event this Friday.", "label": 0},
+  {"text": "Exclusive offer! Win a free iPhone by entering your details here.", "label": 1},
+  {"text": "Your Amazon order #12345 has been shipped. Expected delivery: Tuesday.", "label": 0},
+  {"text": "Save 90% on luxury watches. Only for today!", "label": 1},
+  {"text": "Doctor’s appointment confirmed for 5 PM today at City Clinic.", "label": 0},
+  {"text": "Claim your lottery winnings now! Last chance before it expires.", "label": 1},
+  {"text": "Class reminder: Your online course session starts at 7 PM tonight.", "label": 0},
+  {"text": "Get rich quick! Guaranteed investment returns in just weeks!", "label": 1},
+  {"text": "Flight confirmation: Your ticket to New York is booked for 12th August.", "label": 0},
+  {"text": "Alert! Suspicious login detected. Reset your password immediately.", "label": 1},
+  {"text": "Please find attached the report for last quarter's sales performance.", "label": 0}
+]
